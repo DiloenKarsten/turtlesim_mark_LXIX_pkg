@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>turtlesim_mark_LXIX_pkg</name>
+  <version>0.0.0</version>
+  <description>Some games for turtlesim, for education and entertainment.</description>
+
+  <maintainer email="kdh@es.aau.dk">Karl D. Hansen</maintainer>
+
+  <license>MIT</license>
+
+  <author email="kdh@es.aau.dk">Karl D. Hansen</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>roscpp</depend>
+  <depend>turtlesim</depend>
+
+</package>
